@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <h3>年龄：{{age}}</h3>
+    <input type="button" value="点我变老" v-on:click="add_age">
+    <input type="button" value="点我变老之简化版" @click="add_age1">
+    <input type="button" value="点我变老之究极版" @click="add_age2">
+</div>
+<script src="js/vue.min.js"></script>
+<script>
+    new Vue({
+        el:"#app",
+        data:{
+            age:18,
+        },
+        methods:{
+          add_age:function (){
+              this.age++;
+          },
+            add_age1:function (){
+              this.age++;
+            },
+            add_age2(){
+              this.age++
+            }
+        },
+    })
+</script>
+</body>
+</html>

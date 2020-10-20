@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <h3>{{msg}}</h3>
+    <h2>{{ number * 6}}</h2>
+    <h2>{{user.password}}</h2>
+</div>
+<script src="js/vue.min.js"></script>
+<script>
+    new Vue({
+        el:"#app",
+        data:{
+            msg:'欢迎大家学习XXX',
+            number: 20,
+            user:{"username":'小黑',password:"123456"},
+        }
+
+    })
+</script>
+</body>
+</html>

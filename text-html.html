@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <span v-text="message">DREAM！！！！！</span>
+    <hr>
+    <span v-html="msg"></span>
+</div>
+<script src="js/vue.min.js"></script>
+<script>
+ new Vue({
+     el:"#app",
+     data:{
+         message:"I C U",
+         msg:"<a href=''>点我看Dream George激情击剑</a>",
+     }
+ })
+</script>
+</body>
+</html>

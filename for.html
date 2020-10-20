@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <ul v-for="(value,key,index) in user">
+        {{key}}: {{value}}---{{index}}
+    </ul>
+</div>
+<script src="js/vue.min.js"></script>
+<script>
+    new Vue({
+        el:"#app",
+        data:{
+            user:{name:"DREAM",age:20,pwd:"123456"},
+            arr:["四川","北京","山西"],
+        }
+    })
+</script>
+</body>
+</html>
