@@ -3,7 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="8329ab73-5d9d-4e4b-bac9-b5abaf2f076c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/留言板.html" beforeDir="false" afterPath="$PROJECT_DIR$/留言板.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QQ图片20200830164622.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/QQ图片20200830164622.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/for.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/model.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show-if-bind.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/show-if-bind.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text-html.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/text-html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/事件绑定.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/事件绑定.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/留言板.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/留言板.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Vue模板" />
       </list>
     </option>
   </component>
@@ -26,21 +35,46 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86159\WebstormProjects\untitled\Homework01" />
+      <recent name="C:\Users\86159\WebstormProjects\untitled" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\86159\WebstormProjects\untitled" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\86159\WebstormProjects\untitled" />
-    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="1" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/Homework02/1" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603190434610</updated>
       <workItem from="1603190435895" duration="11380000" />
-      <workItem from="1603239074630" duration="1059000" />
+      <workItem from="1603239074630" duration="2423000" />
+      <workItem from="1603269356471" duration="1347000" />
+      <workItem from="1603275067060" duration="133000" />
     </task>
     <servers />
   </component>
@@ -59,17 +95,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603195419721">
+    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603275199360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603195419721" />
+    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603275199360" />
+    <state x="410" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603274596160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603274596160" />
     <state x="687" y="208" key="FileChooserDialogImpl" timestamp="1603201329708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="687" y="208" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603201329708" />
-    <state x="540" y="72" key="SettingsEditor" timestamp="1603201332329">
+    <state x="574" y="142" key="RollbackChangesDialog" timestamp="1603275182379">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="540" y="72" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603201332329" />
+    <state x="574" y="142" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603275182379" />
+    <state x="532" y="100" width="996" height="707" key="SettingsEditor" timestamp="1603274596216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="100" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603274596216" />
+    <state x="593" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603275134110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603275134110" />
   </component>
 </project>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<div id="app">
+    <p @click="low_num">{{num}}</p>
+    <p>十位数: {{parseInt(num / 10)}}</p>
+    <p>个位数: {{num % 10}}</p>
+</div>
+<script src="js/vue.min.js"></script>
+<script>
+    new Vue({
+        el: "#app",
+        data: {
+            num: 34,
+        },
+        methods: {
+            low_num(){
+                this.num--;
+            }
+        },
+    })
+</script>
+</body>
+</html>
