@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8329ab73-5d9d-4e4b-bac9-b5abaf2f076c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework02/data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/props属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/全局组件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/备用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/子父.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/局部组件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/案例01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/父子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/监听.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/箭头.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework02/计算.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QQ图片20200830164622.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/QQ图片20200830164622.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/for.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/model.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/show-if-bind.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/show-if-bind.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text-html.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/text-html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/事件绑定.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/事件绑定.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/留言板.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework01/留言板.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework02/1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Vue模板" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -30,6 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j8f2k881fHeVoSmrtiBcTWNPxj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +45,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs.jest.jest_package" value="" />
@@ -58,7 +65,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="1" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/Homework02/1" useBuiltInWebServerPort="true">
+    <configuration name="1" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/untitled/Homework02/1" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -70,11 +77,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +89,8 @@
       <workItem from="1603190435895" duration="11380000" />
       <workItem from="1603239074630" duration="2423000" />
       <workItem from="1603269356471" duration="1347000" />
-      <workItem from="1603275067060" duration="133000" />
+      <workItem from="1603275067060" duration="473000" />
+      <workItem from="1603275984281" duration="7943000" />
     </task>
     <servers />
   </component>
@@ -95,10 +98,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603275199360">
+    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603276099970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603275199360" />
+    <state x="199" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603276099970" />
     <state x="410" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603274596160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -111,13 +114,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="142" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603275182379" />
-    <state x="532" y="100" width="996" height="707" key="SettingsEditor" timestamp="1603274596216">
+    <state x="399" y="115" width="996" height="707" key="SettingsEditor" timestamp="1603276316943">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="100" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603274596216" />
+    <state x="399" y="115" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603276316943" />
     <state x="593" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603275134110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603275134110" />
+    <state x="523" y="8" width="600" height="804" key="find.popup" timestamp="1603276186801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="8" width="600" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603276186801" />
+    <state x="534" y="194" key="run.anything.popup" timestamp="1603275219185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="194" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603275219185" />
+    <state x="842" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603286733943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="842" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603286733943" />
   </component>
 </project>

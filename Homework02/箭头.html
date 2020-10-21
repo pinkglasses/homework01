@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+</div>
+<script src="../js/vue.min.js"></script>
+<script>
+    // let app = function(a,b,c){
+    //     console.log(a+b*c)
+    // }
+    // let app2 = (a,b,c) => console.log(a+b+c)
+    //
+    // let app3 = function (a,b){
+    //     console.log(a+b)
+    //     console.log(a*b)
+    // }
+    // let app4 = (a,b) => {
+    //     console.log(a + b)
+    //     console.log(a * b)
+    // }
+    let user = {
+        username: "小黑",
+        app: function(){
+            console.log(this.username)
+        }
+    }
+    user.app()
+    let student = {
+        username:"小黄",
+        app: function (){
+            setTimeout(function (){
+                console.log(this.username)
+            })
+        }
+    }
+    student.app()
+    new Vue({
+        el: "#app",
+        data: {
+        },
+    })
+</script>
+</body>
+</html>

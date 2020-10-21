@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+
+<p @click="low_num">{{num}}</p>
+<p>十位：</p>
+<p>个位：</p>
+<hr>
+    <input type="text" v-model="shi">
+    <input type="text" v-model="ge">
+    结果：{{ result }}
+</div>
+<script src="../js/vue.min.js"></script>
+<script>
+    new Vue({
+        el: "#app",
+        data: {
+            num: 34,
+            shi:"",
+            ge:"",
+        },
+        methods: {
+            low_num(){
+                this.num--;
+            },
+        },
+        computed:{
+            result(){
+                return this.shi * 10 + this.ge
+            },
+        }
+    })
+</script>
+</body>
+</html>
