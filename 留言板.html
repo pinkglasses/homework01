@@ -40,20 +40,19 @@
            },
 
            delNote(index){
+               if (this.notebook.length==0){
+                   this.isShow = false
+               }
                    this.notebook.splice(index, 1)
                  if (this.notebook.length==0){
-                   isShow = false
+                     this.isShow = false
                }
-                   console.log(this.notebook.length)
            },
 
            delAll(){
-               if (this.notebook.length){
+
                    this.notebook.splice(0)
-               }
-                else {
-                    this.isShow = false
-               }
+                   this.isShow = false
            }
        }
    })
