@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8329ab73-5d9d-4e4b-bac9-b5abaf2f076c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework02/data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/props属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/全局组件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/备用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/子父.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/局部组件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/案例01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/父子.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/监听.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/箭头.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework02/计算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework03/JS跳转传参.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework03/动态路由传参.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework03/拼接传参.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework03/路由的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework03/路由的应用.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework02/1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +83,8 @@
       <workItem from="1603239074630" duration="2423000" />
       <workItem from="1603269356471" duration="1347000" />
       <workItem from="1603275067060" duration="473000" />
-      <workItem from="1603275984281" duration="7943000" />
+      <workItem from="1603275984281" duration="8452000" />
+      <workItem from="1603363068108" duration="6198000" />
     </task>
     <servers />
   </component>
